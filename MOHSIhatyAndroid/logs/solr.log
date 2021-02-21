@@ -1,0 +1,742 @@
+INFO  - 2020-09-17 07:04:45.109; utils.log; ----------------------START TEST - Doctor Module -----------------------------
+INFO  - 2020-09-17 07:04:45.856; utils.utility; Pleaase enter Pin 
+INFO  - 2020-09-17 07:04:59.854; utils.utility; Sihaty Pin Text verified  
+INFO  - 2020-09-17 07:05:05.425; utils.utility; Pin entered  
+INFO  - 2020-09-17 07:05:07.703; utils.log; Doctors Menu Click
+INFO  - 2020-09-17 07:05:10.170; utils.log; Sihathy Logo 
+INFO  - 2020-09-17 07:05:10.655; utils.log; DoctorTitlePage Confirmed 
+INFO  - 2020-09-17 07:05:12.275; utils.log; Specialty Confirmed 
+INFO  - 2020-09-17 07:05:13.412; utils.log;  Doctor Expertise is 
+INFO  - 2020-09-17 07:05:13.412; utils.log; Surgery
+INFO  - 2020-09-17 07:05:15.822; utils.log;  Click on First Doctor 
+INFO  - 2020-09-17 07:05:17.228; utils.log; Verifying General Details 
+INFO  - 2020-09-17 07:05:17.570; utils.log; Dr Name is 
+INFO  - 2020-09-17 07:05:17.570; utils.log; Dr. Adeyinka Josephine Alayo
+INFO  - 2020-09-17 07:05:19.914; utils.log; Dr Photo Displayed
+INFO  - 2020-09-17 07:05:20.311; utils.log; Language Available
+INFO  - 2020-09-17 07:05:20.687; utils.log; Language is 
+INFO  - 2020-09-17 07:05:20.688; utils.log; English, French
+INFO  - 2020-09-17 07:05:23.077; utils.log; Experience Available
+INFO  - 2020-09-17 07:05:23.590; utils.log; Experience is 
+INFO  - 2020-09-17 07:05:23.590; utils.log; 10 Years
+INFO  - 2020-09-17 07:05:25.929; utils.log; License number Available
+INFO  - 2020-09-17 07:05:26.432; utils.log; Licence is 
+INFO  - 2020-09-17 07:05:26.432; utils.log; e34433
+INFO  - 2020-09-17 07:05:28.869; utils.log; Initial consultation
+INFO  - 2020-09-17 07:05:29.405; utils.log; Initial consultation is 
+INFO  - 2020-09-17 07:05:29.406; utils.log; 0.0 KWD / 5 mins
+INFO  - 2020-09-17 07:05:31.828; utils.log; Follow Up  consultation
+INFO  - 2020-09-17 07:05:32.280; utils.log; Follow up  consultation is 
+INFO  - 2020-09-17 07:05:32.280; utils.log; 10.0 KWD / 5 mins
+INFO  - 2020-09-17 07:05:36.045; utils.log; Scolled down 
+INFO  - 2020-09-17 07:05:37.502; utils.log; Background Information Available
+INFO  - 2020-09-17 07:05:37.899; utils.log; University Available
+INFO  - 2020-09-17 07:05:38.273; utils.log; University is 
+INFO  - 2020-09-17 07:05:38.274; utils.log; 10.0 KWD / 5 mins
+INFO  - 2020-09-17 07:05:40.679; utils.log; Training Available
+INFO  - 2020-09-17 07:05:41.094; utils.log; Training is 
+INFO  - 2020-09-17 07:05:41.094; utils.log; Union Medical College London
+INFO  - 2020-09-17 07:05:43.469; utils.log; Fellowship Available
+INFO  - 2020-09-17 07:05:43.950; utils.log; Fellowship is 
+INFO  - 2020-09-17 07:05:43.951; utils.log; Alamercies
+INFO  - 2020-09-17 07:05:46.345; utils.log; Other Available
+INFO  - 2020-09-17 07:05:46.785; utils.log; Other is 
+INFO  - 2020-09-17 07:05:46.785; utils.log; 
+INFO  - 2020-09-17 07:05:49.236; utils.log; Board Available
+INFO  - 2020-09-17 07:05:49.801; utils.log; Board is 
+INFO  - 2020-09-17 07:05:49.802; utils.log; Director
+INFO  - 2020-09-17 07:05:52.212; utils.log; Area of expertise Available
+INFO  - 2020-09-17 07:05:52.655; utils.log; expertise is 
+INFO  - 2020-09-17 07:05:52.655; utils.log; Surgery
+INFO  - 2020-09-17 07:18:19.076; utils.log; ----------------------START TEST - Doctor Module -----------------------------
+INFO  - 2020-09-17 07:18:19.807; utils.utility; Pleaase enter Pin 
+INFO  - 2020-09-17 07:18:34.171; utils.utility; Sihaty Pin Text verified  
+INFO  - 2020-09-17 07:18:39.666; utils.utility; Pin entered  
+INFO  - 2020-09-17 07:18:41.917; utils.log; Doctors Menu Click
+INFO  - 2020-09-17 07:18:44.363; utils.log; Sihathy Logo 
+INFO  - 2020-09-17 07:18:44.805; utils.log; DoctorTitlePage Confirmed 
+INFO  - 2020-09-17 07:18:46.426; utils.log; Specialty Confirmed 
+INFO  - 2020-09-17 07:18:47.606; utils.log;  Doctor Expertise is 
+INFO  - 2020-09-17 07:18:47.606; utils.log; Surgery
+INFO  - 2020-09-17 07:18:49.900; utils.log;  Click on First Doctor 
+INFO  - 2020-09-17 07:18:51.275; utils.log; Verifying General Details 
+INFO  - 2020-09-17 07:18:51.677; utils.log; Dr Name is 
+INFO  - 2020-09-17 07:18:51.677; utils.log; Dr. Adeyinka Josephine Alayo
+INFO  - 2020-09-17 07:18:54.028; utils.log; Dr Photo Displayed
+INFO  - 2020-09-17 07:18:54.381; utils.log; Language Available
+INFO  - 2020-09-17 07:18:54.829; utils.log; Language is 
+INFO  - 2020-09-17 07:18:54.829; utils.log; English, French
+INFO  - 2020-09-17 07:18:57.253; utils.log; Experience Available
+INFO  - 2020-09-17 07:18:57.770; utils.log; Experience is 
+INFO  - 2020-09-17 07:18:57.770; utils.log; 10 Years
+INFO  - 2020-09-17 07:19:00.097; utils.log; License number Available
+INFO  - 2020-09-17 07:19:00.512; utils.log; Licence is 
+INFO  - 2020-09-17 07:19:00.512; utils.log; e34433
+INFO  - 2020-09-17 07:19:02.864; utils.log; Initial consultation
+INFO  - 2020-09-17 07:19:03.407; utils.log; Initial consultation is 
+INFO  - 2020-09-17 07:19:03.407; utils.log; 0.0 KWD / 5 mins
+INFO  - 2020-09-17 07:19:05.799; utils.log; Follow Up  consultation
+INFO  - 2020-09-17 07:19:06.206; utils.log; Follow up  consultation is 
+INFO  - 2020-09-17 07:19:06.207; utils.log; 10.0 KWD / 5 mins
+INFO  - 2020-09-17 07:19:10.058; utils.log; Scolled down 
+INFO  - 2020-09-17 07:19:11.496; utils.log; Background Information Available
+INFO  - 2020-09-17 07:19:11.835; utils.log; University Available
+INFO  - 2020-09-17 07:19:12.263; utils.log; University is 
+INFO  - 2020-09-17 07:19:12.263; utils.log; 10.0 KWD / 5 mins
+INFO  - 2020-09-17 07:19:14.660; utils.log; Training Available
+INFO  - 2020-09-17 07:19:15.079; utils.log; Training is 
+INFO  - 2020-09-17 07:19:15.079; utils.log; Union Medical College London
+INFO  - 2020-09-17 07:19:17.491; utils.log; Fellowship Available
+INFO  - 2020-09-17 07:19:17.982; utils.log; Fellowship is 
+INFO  - 2020-09-17 07:19:17.982; utils.log; Alamercies
+INFO  - 2020-09-17 07:19:20.373; utils.log; Other Available
+INFO  - 2020-09-17 07:19:20.784; utils.log; Other is 
+INFO  - 2020-09-17 07:19:20.784; utils.log; 
+INFO  - 2020-09-17 07:19:23.171; utils.log; Board Available
+INFO  - 2020-09-17 07:19:23.614; utils.log; Board is 
+INFO  - 2020-09-17 07:19:23.615; utils.log; Director
+INFO  - 2020-09-17 07:19:25.973; utils.log; Area of expertise Available
+INFO  - 2020-09-17 07:19:26.446; utils.log; expertise is 
+INFO  - 2020-09-17 07:19:26.447; utils.log; Surgery
+INFO  - 2020-09-17 07:19:40.742; utils.log; ----------------------START TEST -Book Failed SpecialistAppointments-----------------------------
+INFO  - 2020-09-17 07:19:41.323; utils.utility; Pleaase enter Pin 
+INFO  - 2020-09-17 07:19:54.611; utils.utility; Sihaty Pin Text verified  
+INFO  - 2020-09-17 07:20:00.099; utils.utility; Pin entered  
+INFO  - 2020-09-17 07:21:38.224; utils.log; -------------------------- ---START TEST - APP Version ------ ---------------------------------------------------
+INFO  - 2020-09-17 07:21:38.979; utils.utility; Pleaase enter Pin 
+INFO  - 2020-09-17 07:21:52.416; utils.utility; Sihaty Pin Text verified  
+INFO  - 2020-09-17 07:21:57.885; utils.utility; Pin entered  
+INFO  - 2020-09-17 07:21:59.980; utils.log;  Greetings, Logo and Intro Checked  
+INFO  - 2020-09-17 07:22:02.524; utils.log; My Profile Clicked
+INFO  - 2020-09-17 07:22:04.280; utils.log; Scolled down 
+INFO  - 2020-09-17 07:22:06.309; utils.log; App Version is 
+INFO  - 2020-09-17 07:22:06.309; utils.log; App version 1.2.0 (123)
+INFO  - 2020-09-17 07:22:07.312; utils.log; -----------------------------------------END TEST - APP VERSION --------------------------------------------------------------
+INFO  - 2020-09-17 07:22:25.021; utils.log; -----------------------------------------START TEST - My Health --------------------------------------------------------------
+INFO  - 2020-09-17 07:22:25.577; utils.utility; Pleaase enter Pin 
+INFO  - 2020-09-17 07:22:38.520; utils.utility; Sihaty Pin Text verified  
+INFO  - 2020-09-17 07:22:44.188; utils.utility; Pin entered  
+INFO  - 2020-09-17 07:22:53.855; utils.log; Scolled down 
+INFO  - 2020-09-17 07:22:54.738; utils.log; Alergies FOund  
+INFO  - 2020-09-17 07:22:58.322; utils.log; Scolled up 
+INFO  - 2020-09-17 07:22:58.322; utils.log; All menus checkced   
+INFO  - 2020-09-17 07:23:04.165; utils.log; Heights checked   
+INFO  - 2020-09-17 07:23:06.802; utils.log; Weight Clicked checked   
+INFO  - 2020-09-17 07:23:10.148; utils.log; Weight Updated 
+INFO  - 2020-09-17 07:23:14.703; utils.log; Blood Pressure Clicked
+INFO  - 2020-09-17 07:23:19.250; utils.log; Blood Pressure Updated 
+INFO  - 2020-09-17 07:24:45.025; utils.log; -----------------------------------------START TEST - My Health --------------------------------------------------------------
+INFO  - 2020-09-17 07:24:45.605; utils.utility; Pleaase enter Pin 
+INFO  - 2020-09-17 07:24:58.581; utils.utility; Sihaty Pin Text verified  
+INFO  - 2020-09-17 07:25:04.026; utils.utility; Pin entered  
+INFO  - 2020-09-17 07:25:13.615; utils.log; Scolled down 
+INFO  - 2020-09-17 07:25:14.841; utils.log; Alergies FOund  
+INFO  - 2020-09-17 07:25:17.982; utils.log; Scolled up 
+INFO  - 2020-09-17 07:25:17.982; utils.log; All menus checkced   
+INFO  - 2020-09-17 07:25:23.929; utils.log; Heights checked   
+INFO  - 2020-09-17 07:25:26.652; utils.log; Weight Clicked checked   
+INFO  - 2020-09-17 07:25:29.608; utils.log; Weight Updated 
+INFO  - 2020-09-17 07:25:34.256; utils.log; Blood Pressure Clicked
+INFO  - 2020-09-17 07:25:38.877; utils.log; Blood Pressure Updated 
+INFO  - 2020-09-17 07:27:20.236; utils.log; -----------------------------------------START TEST - My Profile --------------------------------------------------------------
+INFO  - 2020-09-17 07:27:20.800; utils.utility; Pleaase enter Pin 
+INFO  - 2020-09-17 07:27:33.804; utils.utility; Sihaty Pin Text verified  
+INFO  - 2020-09-17 07:27:39.263; utils.utility; Pin entered  
+INFO  - 2020-09-17 07:27:42.340; utils.log; Patient Name is 
+INFO  - 2020-09-17 07:27:42.340; utils.log; Fatma  Ramadhan
+INFO  - 2020-09-17 07:27:43.879; utils.log; Patient Age and Gender is 
+INFO  - 2020-09-17 07:27:43.879; utils.log; Female, 29 Years
+INFO  - 2020-09-17 07:27:45.292; utils.log; Patient Avater is displayed
+INFO  - 2020-09-17 07:27:45.735; utils.log; Contact details check started
+INFO  - 2020-09-17 07:27:46.064; utils.log; Email text displayed 
+INFO  - 2020-09-17 07:27:46.642; utils.log; Email textbox clicked 
+INFO  - 2020-09-17 07:27:47.963; utils.log; Email text displayed on the dialog 
+INFO  - 2020-09-17 07:27:51.242; utils.log; Email validation successful 
+INFO  - 2020-09-17 07:27:57.495; utils.log; Email was saved and confirmed 
+INFO  - 2020-09-17 07:27:57.915; utils.log; Saved Addresses Section
+INFO  - 2020-09-17 07:27:58.264; utils.log; Home Address Section
+INFO  - 2020-09-17 07:27:58.708; utils.log; Home Address is 
+INFO  - 2020-09-17 07:27:58.708; utils.log; 134, Qatar Road , Kuwffc
+INFO  - 2020-09-17 07:28:01.100; utils.log; Home Address Dialog Opens
+INFO  - 2020-09-17 07:28:05.828; utils.log; Home Address was saved and confirmed 
+INFO  - 2020-09-17 07:28:06.178; utils.log; Office Address Section
+INFO  - 2020-09-17 07:28:06.647; utils.log; Office Address is 
+INFO  - 2020-09-17 07:28:06.647; utils.log; James Crecent Islands
+INFO  - 2020-09-17 07:28:08.928; utils.log; Office Address Dialog Opens
+INFO  - 2020-09-17 07:28:13.547; utils.log; Office Address was saved and confirmed 
+INFO  - 2020-09-17 07:28:15.302; utils.log; Scolled down 
+INFO  - 2020-09-17 07:28:17.223; utils.log; Language Section
+INFO  - 2020-09-17 07:28:17.732; utils.log; language is 
+INFO  - 2020-09-17 07:28:17.733; utils.log; English
+INFO  - 2020-09-17 07:28:23.565; utils.log; language changed to English 
+INFO  - 2020-09-17 07:28:25.719; utils.log; language change cancelled 
+INFO  - 2020-09-17 07:28:26.512; utils.log; language is still English 
+INFO  - 2020-09-17 07:28:28.923; utils.log;  Customer support checked  
+INFO  - 2020-09-17 07:28:29.389; utils.log;  FAQs available 
+INFO  - 2020-09-17 07:28:29.671; utils.log;  FAQs Clicked  
+INFO  - 2020-09-17 07:28:35.886; utils.log; Scolled down 
+INFO  - 2020-09-17 07:28:44.101; utils.log;  FAQ Closed   
+INFO  - 2020-09-17 07:28:45.304; utils.log; Terms , Private policy and Consent Avilable  
+INFO  - 2020-09-17 07:28:46.979; utils.log;  Terms and conditions page opened   
+INFO  - 2020-09-17 07:28:47.440; utils.log;  Some text verified on about us page    
+INFO  - 2020-09-17 07:28:49.322; utils.log;  Terms and conditions Closed   
+INFO  - 2020-09-17 07:28:51.566; utils.log;  Privacy policy page opened   
+INFO  - 2020-09-17 07:28:53.741; utils.log;  Privacy policy Closed   
+INFO  - 2020-09-17 07:28:56.990; utils.log; Consent for telehealth page opened   
+INFO  - 2020-09-17 07:28:59.042; utils.log;  Consent for telehealth Closed   
+INFO  - 2020-09-17 07:29:00.724; utils.log; Scolled down 
+INFO  - 2020-09-17 07:29:02.160; utils.log; App Version is 
+INFO  - 2020-09-17 07:29:02.161; utils.log; App version 1.2.0 (123)
+INFO  - 2020-09-17 07:29:03.542; utils.log;  Delete Account available     
+INFO  - 2020-09-17 07:29:03.957; utils.log;  Delete Account clicked  
+INFO  - 2020-09-17 07:29:05.113; utils.log;  Delete Account Dialog Opened  
+INFO  - 2020-09-17 07:29:06.298; utils.log;  Delete Account available     
+INFO  - 2020-09-17 07:29:06.298; utils.log; -----------------------------------------END TEST - My Profile --------------------------------------------------------------
+INFO  - 2020-09-17 07:29:50.337; utils.log; -----------------------------------------START TEST Past and Upcoming Appointment--------------------------------------------------------------
+INFO  - 2020-09-17 07:29:51.079; utils.utility; Pleaase enter Pin 
+INFO  - 2020-09-17 07:30:04.136; utils.utility; Sihaty Pin Text verified  
+INFO  - 2020-09-17 07:30:09.569; utils.utility; Pin entered  
+INFO  - 2020-09-17 07:30:20.605; utils.log; Click First Row 
+INFO  - 2020-09-17 07:30:23.767; utils.log; Drname is 
+INFO  - 2020-09-17 07:30:23.768; utils.log; Andrey Bulava
+INFO  - 2020-09-17 07:30:24.257; utils.log; specialty is 
+INFO  - 2020-09-17 07:30:24.258; utils.log; Psychology
+INFO  - 2020-09-17 07:30:24.721; utils.log; Appiontment Date is 
+INFO  - 2020-09-17 07:30:24.722; utils.log; Friday, Dec 11th • 22:00
+INFO  - 2020-09-17 07:30:26.536; utils.log; Consultation For is 
+INFO  - 2020-09-17 07:30:26.536; utils.log; Other
+ null
+INFO  - 2020-09-17 07:30:27.105; utils.log; Duration is 
+INFO  - 2020-09-17 07:30:27.105; utils.log; 20 minutes
+INFO  - 2020-09-17 07:30:27.532; utils.log; Call Mode is 
+INFO  - 2020-09-17 07:30:27.534; utils.log; Video call
+INFO  - 2020-09-17 07:30:27.897; utils.log; Details for Upcoming Appointment Validated 
+INFO  - 2020-09-17 07:30:29.779; utils.log; Click On Past Appointments  
+INFO  - 2020-09-17 07:30:31.511; utils.log; Click First Row 
+INFO  - 2020-09-17 07:30:34.251; utils.log; Drname is 
+INFO  - 2020-09-17 07:30:34.252; utils.log; Andrey Bulava
+INFO  - 2020-09-17 07:30:34.252; utils.log; specialty is 
+INFO  - 2020-09-17 07:30:34.252; utils.log; Psychology
+INFO  - 2020-09-17 07:30:34.252; utils.log; Appiontment Date is 
+INFO  - 2020-09-17 07:30:34.252; utils.log; Friday, Dec 11th • 22:00
+INFO  - 2020-09-17 07:30:35.712; utils.log; Consultation For is 
+INFO  - 2020-09-17 07:30:35.712; utils.log; Other
+ null
+INFO  - 2020-09-17 07:30:35.712; utils.log; Duration is 
+INFO  - 2020-09-17 07:30:35.712; utils.log; 20 minutes
+INFO  - 2020-09-17 07:30:35.712; utils.log; Call Mode is 
+INFO  - 2020-09-17 07:30:35.713; utils.log; Video call
+INFO  - 2020-09-17 07:30:37.497; utils.log; Scolled down 
+INFO  - 2020-09-17 07:30:40.664; utils.log; Imaging is 
+INFO  - 2020-09-17 07:30:40.664; utils.log; Laboratory in progress
+INFO  - 2020-09-17 07:30:40.665; utils.log; -----------------------------------------END TEST Past and Upcoming Appointment--------------------------------------------------------------
+INFO  - 2020-09-17 07:30:51.960; utils.log; -----------------------------------------START TEST -Validate Urgent Appointments Symptoms--------------------------------------------------------------
+INFO  - 2020-09-17 07:30:51.964; utils.log; START TEST -Validate Urgent Appointments Symptoms 
+INFO  - 2020-09-17 07:30:52.520; utils.utility; Pleaase enter Pin 
+INFO  - 2020-09-17 07:31:05.477; utils.utility; Sihaty Pin Text verified  
+INFO  - 2020-09-17 07:31:10.960; utils.utility; Pin entered  
+INFO  - 2020-09-17 07:31:15.800; utils.log; Needs Care Confirmed Okay 
+INFO  - 2020-09-17 07:31:20.250; utils.log; SIYATYURGENT1 Confirmed 
+INFO  - 2020-09-17 07:31:20.665; utils.log; SIYATYURGENT2 Confirmed 
+INFO  - 2020-09-17 07:31:21.090; utils.log; SIYATYURGENT3 Confirmed 
+INFO  - 2020-09-17 07:31:22.811; utils.log; Scolled down 
+INFO  - 2020-09-17 07:31:23.245; utils.log; SIYATYURGENT4 Confirmed 
+INFO  - 2020-09-17 07:31:23.603; utils.log; SIYATYURGENT5 Confirmed 
+INFO  - 2020-09-17 07:31:25.281; utils.log; Scolled Up 
+INFO  - 2020-09-17 07:31:28.868; utils.log; All Cough Symptoms Verified
+INFO  - 2020-09-17 07:31:31.900; utils.log; Scolled Up 
+INFO  - 2020-09-17 07:31:36.879; utils.log; All General Symptoms Verified
+INFO  - 2020-09-17 07:31:42.072; utils.log; All Genital and urinary Symptoms Verified
+INFO  - 2020-09-17 07:31:45.159; utils.log; Scolled down 
+INFO  - 2020-09-17 07:31:48.985; utils.log; Skin Problems Symptoms Verified
+INFO  - 2020-09-17 07:31:53.271; utils.log; Stomach an Bowel symptoms Verified
+INFO  - 2020-09-17 07:31:57.061; utils.log; Tests and medications symptoms Verified
+INFO  - 2020-09-17 07:31:58.453; utils.log; -----------------------------------------END TEST -Validate Urgent Appointments Symptoms--------------------------------------------------------------
+INFO  - 2020-09-17 07:32:23.231; utils.log; -----------------------------------------START TEST -Validate Urgent Appointments Questions and Answers--------------------------------------------------------------
+INFO  - 2020-09-17 07:32:23.792; utils.utility; Pleaase enter Pin 
+INFO  - 2020-09-17 07:32:36.587; utils.utility; Sihaty Pin Text verified  
+INFO  - 2020-09-17 07:32:42.020; utils.utility; Pin entered  
+INFO  - 2020-09-17 07:32:43.931; utils.log; Book Appointment Image Available
+INFO  - 2020-09-17 07:32:45.367; utils.log; Urgent Consultation Button Confirmed Okay 
+INFO  - 2020-09-17 07:33:01.314; utils.log; Dizziness Checking 
+INFO  - 2020-09-17 07:47:31.104; utils.log; -----------------------------------------START TEST -Validate Urgent Appointments Questions and Answers--------------------------------------------------------------
+INFO  - 2020-09-17 07:47:31.860; utils.utility; Pleaase enter Pin 
+INFO  - 2020-09-17 07:47:45.426; utils.utility; Sihaty Pin Text verified  
+INFO  - 2020-09-17 07:47:50.708; utils.utility; Pin entered  
+INFO  - 2020-09-17 07:47:52.689; utils.log; Book Appointment Image Available
+INFO  - 2020-09-17 07:47:54.169; utils.log; Urgent Consultation Button Confirmed Okay 
+INFO  - 2020-09-17 07:48:09.755; utils.log; Dizziness Checking 
+INFO  - 2020-09-17 07:48:29.713; utils.log; Scolled downs 
+INFO  - 2020-09-17 07:51:39.765; utils.log; -----------------------------------------START TEST -Validate Urgent Appointments Questions and Answers--------------------------------------------------------------
+INFO  - 2020-09-17 07:51:40.328; utils.utility; Pleaase enter Pin 
+INFO  - 2020-09-17 07:51:53.083; utils.utility; Sihaty Pin Text verified  
+INFO  - 2020-09-17 07:51:58.505; utils.utility; Pin entered  
+INFO  - 2020-09-17 07:52:00.146; utils.log; Book Appointment Image Available
+INFO  - 2020-09-17 07:52:01.889; utils.log; Urgent Consultation Button Confirmed Okay 
+INFO  - 2020-09-17 07:52:17.642; utils.log; Dizziness Checking 
+INFO  - 2020-09-17 07:52:39.013; utils.log; Scolled downs 
+INFO  - 2020-09-17 07:53:19.056; utils.log; END TEST - Validate Urgent Appointments Questions and Answers
+INFO  - 2020-09-17 07:54:20.579; utils.log; -----------------------------------------START TEST -Who Needs Cared Page--------------------------------------------------------------
+INFO  - 2020-09-17 07:54:21.309; utils.utility; Pleaase enter Pin 
+INFO  - 2020-09-17 07:54:34.163; utils.utility; Sihaty Pin Text verified  
+INFO  - 2020-09-17 07:54:39.656; utils.utility; Pin entered  
+INFO  - 2020-09-17 07:54:43.865; utils.log; Needs Care Confirmed Okay 
+INFO  - 2020-09-17 07:54:44.569; utils.log; Confirmed Okay ------------------------ 
+INFO  - 2020-09-17 07:54:44.569; utils.log; -----------------------------------------END TEST -Who Needs Cared Page--------------------------------------------------------------
+INFO  - 2020-09-17 07:56:16.774; utils.log; -----------------------------------------START TEST Child Past and Upcoming Appointment--------------------------------------------------------------
+INFO  - 2020-09-17 07:56:17.341; utils.utility; Pleaase enter Pin 
+INFO  - 2020-09-17 07:56:30.681; utils.utility; Sihaty Pin Text verified  
+INFO  - 2020-09-17 07:56:36.179; utils.utility; Pin entered  
+INFO  - 2020-09-17 07:56:41.156; utils.log;  My Health Clicked
+INFO  - 2020-09-17 07:56:41.932; utils.log; More Icon Selected
+INFO  - 2020-09-17 07:56:43.152; utils.log; Child Name to be Selected is 
+INFO  - 2020-09-17 07:56:43.153; utils.log; Qqq  Qqq
+INFO  - 2020-09-17 07:56:43.487; utils.log; Child Age and Sex is 
+INFO  - 2020-09-17 07:56:43.487; utils.log; Female, 10 Years
+INFO  - 2020-09-17 07:56:43.972; utils.log;  Child Profile Clicked 
+INFO  - 2020-09-17 07:56:50.617; utils.log; -----------------------------------------END TEST Child Past and Upcoming Appointment--------------------------------------------------------------
+INFO  - 2020-09-17 07:58:38.656; utils.log; -----------------------------------------START TEST - Child My Health --------------------------------------------------------------
+INFO  - 2020-09-17 07:58:39.233; utils.utility; Pleaase enter Pin 
+INFO  - 2020-09-17 07:58:52.687; utils.utility; Sihaty Pin Text verified  
+INFO  - 2020-09-17 07:58:58.088; utils.utility; Pin entered  
+INFO  - 2020-09-17 07:59:03.996; utils.log; More Icon Selected
+INFO  - 2020-09-17 07:59:05.282; utils.log; Child Name to be Selected is 
+INFO  - 2020-09-17 07:59:05.283; utils.log; Qqq  Qqq
+INFO  - 2020-09-17 07:59:05.654; utils.log; Child Age and Sex is 
+INFO  - 2020-09-17 07:59:05.654; utils.log; Female, 10 Years
+INFO  - 2020-09-17 07:59:06.172; utils.log;  Child Profile Clicked 
+INFO  - 2020-09-17 07:59:58.287; utils.log; Blood Pressure is not available for child as Expected
+INFO  - 2020-09-17 08:00:48.448; utils.log; Smoking is not available for child as Expected
+INFO  - 2020-09-17 08:00:50.732; utils.log; Scolled down 
+INFO  - 2020-09-17 08:01:42.223; utils.log; Recreational Drug is not available for child as Expected
+INFO  - 2020-09-17 08:01:42.606; utils.log; Head Circumference FOund  
+INFO  - 2020-09-17 08:01:42.969; utils.log; Alergies FOund  
+INFO  - 2020-09-17 08:01:50.417; utils.log; Heights checked   
+INFO  - 2020-09-17 08:01:53.026; utils.log; Weight Clicked checked   
+INFO  - 2020-09-17 08:01:56.552; utils.log; Weight Updated 
+INFO  - 2020-09-17 08:01:59.216; utils.log; Allergies Clicked Again
+INFO  - 2020-09-17 08:02:02.055; utils.log; Allergies Cancelled
+INFO  - 2020-09-17 08:02:03.247; utils.log; Vaccinations Clicked
+INFO  - 2020-09-17 08:02:08.173; utils.log; Vaccinations Saved
+INFO  - 2020-09-17 08:02:10.838; utils.log; Vaccinations Confirmed 
+INFO  - 2020-09-17 08:02:11.521; utils.log; Medical problems Clicked
+INFO  - 2020-09-17 08:02:16.741; utils.log; Medical problems Saved
+INFO  - 2020-09-17 08:02:18.304; utils.log; Medications Clicked
+INFO  - 2020-09-17 08:02:33.340; utils.log; Medications Saved
+INFO  - 2020-09-17 08:02:33.342; utils.log; All menus checked   
+INFO  - 2020-09-17 08:02:33.342; utils.log; -----------------------------------------END TEST - Child My Health --------------------------------------------------------------
+INFO  - 2020-09-17 08:05:03.578; utils.log; ----------------------START TEST -Book Failed SpecialistAppointments-----------------------------
+INFO  - 2020-09-17 08:05:04.135; utils.utility; Pleaase enter Pin 
+INFO  - 2020-09-17 08:05:16.980; utils.utility; Sihaty Pin Text verified  
+INFO  - 2020-09-17 08:05:22.657; utils.utility; Pin entered  
+INFO  - 2020-09-17 08:06:06.290; utils.log; ----------------------START TEST -Book Failed SpecialistAppointments-----------------------------
+INFO  - 2020-09-17 08:06:06.869; utils.utility; Pleaase enter Pin 
+INFO  - 2020-09-17 08:06:19.777; utils.utility; Sihaty Pin Text verified  
+INFO  - 2020-09-17 08:06:25.222; utils.utility; Pin entered  
+INFO  - 2020-09-17 08:14:44.484; utils.log; ----------------------START TEST -Book Failed SpecialistAppointments-----------------------------
+INFO  - 2020-09-17 08:14:45.256; utils.utility; Pleaase enter Pin 
+INFO  - 2020-09-17 08:14:58.637; utils.utility; Sihaty Pin Text verified  
+INFO  - 2020-09-17 08:15:04.123; utils.utility; Pin entered  
+INFO  - 2020-09-17 08:17:34.229; utils.log; ----------------------START TEST -Book Failed SpecialistAppointments-----------------------------
+INFO  - 2020-09-17 08:17:34.779; utils.utility; Pleaase enter Pin 
+INFO  - 2020-09-17 08:17:47.829; utils.utility; Sihaty Pin Text verified  
+INFO  - 2020-09-17 08:17:53.208; utils.utility; Pin entered  
+INFO  - 2020-09-17 08:18:50.520; utils.log; ----------------------START TEST -Book Failed SpecialistAppointments-----------------------------
+INFO  - 2020-09-17 08:18:51.072; utils.utility; Pleaase enter Pin 
+INFO  - 2020-09-17 08:19:04.182; utils.utility; Sihaty Pin Text verified  
+INFO  - 2020-09-17 08:19:09.607; utils.utility; Pin entered  
+INFO  - 2020-09-17 08:19:27.463; utils.log; Select First Doctor 
+INFO  - 2020-09-17 08:19:28.750; utils.log; Doctor Photo Available 
+INFO  - 2020-09-17 08:24:11.223; utils.log; ----------------------START TEST -Book Failed SpecialistAppointments-----------------------------
+INFO  - 2020-09-17 08:24:11.804; utils.utility; Pleaase enter Pin 
+INFO  - 2020-09-17 08:24:25.468; utils.utility; Sihaty Pin Text verified  
+INFO  - 2020-09-17 08:24:30.890; utils.utility; Pin entered  
+INFO  - 2020-09-17 08:24:50.642; utils.log; Doctor Photo Available 
+INFO  - 2020-09-17 08:24:51.028; utils.log; Select  Doctor 
+INFO  - 2020-09-17 08:24:53.553; utils.log; Language is 
+INFO  - 2020-09-17 08:24:53.553; utils.log; Arabic, English, French
+INFO  - 2020-09-17 08:24:56.319; utils.log; Experience Available
+INFO  - 2020-09-17 08:24:57.154; utils.log; Experience is 
+INFO  - 2020-09-17 08:24:57.154; utils.log; Arabic, English, French
+INFO  - 2020-09-17 08:24:59.534; utils.log; License number Available
+INFO  - 2020-09-17 08:25:00.035; utils.log; Licence is 
+INFO  - 2020-09-17 08:25:00.035; utils.log; 8723498234892173
+INFO  - 2020-09-17 08:25:03.831; utils.log; Scolled down 
+INFO  - 2020-09-17 08:25:05.257; utils.log; Background Information Available
+INFO  - 2020-09-17 08:25:05.634; utils.log; University Available
+INFO  - 2020-09-17 08:25:06.150; utils.log; University is 
+INFO  - 2020-09-17 08:25:06.151; utils.log; Kuwait University
+INFO  - 2020-09-17 08:25:08.577; utils.log; Training Available
+INFO  - 2020-09-17 08:25:09.036; utils.log; Residency is 
+INFO  - 2020-09-17 08:25:09.037; utils.log; Train university 
+INFO  - 2020-09-17 08:25:11.408; utils.log; Fellowship Available
+INFO  - 2020-09-17 08:25:11.909; utils.log; Fellowship is 
+INFO  - 2020-09-17 08:25:11.909; utils.log; fell
+INFO  - 2020-09-17 08:25:14.322; utils.log; Other Available
+INFO  - 2020-09-17 08:25:14.753; utils.log; Other is 
+INFO  - 2020-09-17 08:25:14.753; utils.log; 
+INFO  - 2020-09-17 08:25:17.138; utils.log; Board Available
+INFO  - 2020-09-17 08:25:17.621; utils.log; Board is 
+INFO  - 2020-09-17 08:25:17.621; utils.log; Director
+INFO  - 2020-09-17 08:25:20.003; utils.log; Area of expertise Available
+INFO  - 2020-09-17 08:25:20.513; utils.log; expertise is 
+INFO  - 2020-09-17 08:25:20.514; utils.log; Director
+INFO  - 2020-09-17 08:25:24.262; utils.log; Scolled Up 
+INFO  - 2020-09-17 08:25:25.944; utils.log; Book Consultation Button Clicked  
+INFO  - 2020-09-17 08:25:28.700; utils.log; Cancel Button Clicked  
+INFO  - 2020-09-17 08:25:29.672; utils.log; Book Consultation Button Clicked again  
+INFO  - 2020-09-17 08:25:34.827; utils.log; Date Selected   
+INFO  - 2020-09-17 08:25:35.374; utils.log; Month Displayed
+INFO  - 2020-09-17 08:25:35.734; utils.log; Now Select a Slot 
+INFO  - 2020-09-17 08:25:36.257; utils.log; Slot Selected 
+INFO  - 2020-09-17 08:25:37.276; utils.log; Confirm Button Clicked  
+INFO  - 2020-09-17 08:25:42.372; utils.log; Consultation For  is 
+INFO  - 2020-09-17 08:25:42.373; utils.log; Anger management
+INFO  - 2020-09-17 08:25:44.866; utils.log; Provider  is 
+INFO  - 2020-09-17 08:25:44.866; utils.log; Dr. Murad T
+INFO  - 2020-09-17 08:25:47.362; utils.log; Schedule is 
+INFO  - 2020-09-17 08:25:47.362; utils.log; 21/09/2020, 04:00 - 04:03
+INFO  - 2020-09-17 08:25:49.801; utils.log; Calling Mode is 
+INFO  - 2020-09-17 08:25:49.801; utils.log; Video call
+INFO  - 2020-09-17 08:25:51.806; utils.log; Symptoms  Is correctly displayed as selected 
+INFO  - 2020-09-17 08:25:52.899; utils.log; Payment Options Checked 
+INFO  - 2020-09-17 08:25:55.303; utils.log; Credit Card selected 
+INFO  - 2020-09-17 08:26:04.986; utils.log; Consultation Price is 
+INFO  - 2020-09-17 08:26:04.987; utils.log; 12.000KD
+INFO  - 2020-09-17 08:26:04.987; utils.log; About to enter Card Details on Payment Gateway 
+INFO  - 2020-09-17 08:26:22.047; utils.log; Card Details Entered and Submit Button has been Clicked
+INFO  - 2020-09-17 08:26:29.983; utils.log; Payment Authentication Failed Option Selected 
+INFO  - 2020-09-17 08:26:33.101; utils.log; Payment Failed as Expected and Failure Message Displayed 
+INFO  - 2020-09-17 08:26:34.923; utils.log; User is Navigated to the Payment Method
+INFO  - 2020-09-17 08:26:34.923; utils.log; ----------------------END TEST -Book Failed SpecialistAppointments-----------------------------
+INFO  - 2020-09-17 08:38:47.965; utils.log; ----------------------START TEST - Book Other SpecialistAppointments-----------------------------
+INFO  - 2020-09-17 08:38:48.699; utils.utility; Pleaase enter Pin 
+INFO  - 2020-09-17 08:39:02.336; utils.utility; Sihaty Pin Text verified  
+INFO  - 2020-09-17 08:39:08.073; utils.utility; Pin entered  
+INFO  - 2020-09-17 08:39:18.455; utils.log; Other Category Selcted 
+INFO  - 2020-09-17 08:39:21.789; utils.log; Other Appointment Entered and Next Button Clicked 
+INFO  - 2020-09-17 08:39:24.512; utils.log; Select  Doctor 
+INFO  - 2020-09-17 08:39:27.985; utils.log; Language is 
+INFO  - 2020-09-17 08:39:27.985; utils.log; Arabic, English, French
+INFO  - 2020-09-17 08:39:30.410; utils.log; Experience Available
+INFO  - 2020-09-17 08:39:30.915; utils.log; Experience is 
+INFO  - 2020-09-17 08:39:30.915; utils.log; Arabic, English, French
+INFO  - 2020-09-17 08:39:33.368; utils.log; License number Available
+INFO  - 2020-09-17 08:39:33.934; utils.log; Licence is 
+INFO  - 2020-09-17 08:39:33.934; utils.log; 8723498234892173
+INFO  - 2020-09-17 08:39:37.809; utils.log; Scolled down 
+INFO  - 2020-09-17 08:39:39.253; utils.log; Background Information Available
+INFO  - 2020-09-17 08:39:39.651; utils.log; University Available
+INFO  - 2020-09-17 08:39:40.143; utils.log; University is 
+INFO  - 2020-09-17 08:39:40.143; utils.log; Kuwait University
+INFO  - 2020-09-17 08:39:42.576; utils.log; Residency Available
+INFO  - 2020-09-17 08:39:43.047; utils.log; Training is 
+INFO  - 2020-09-17 08:39:43.047; utils.log; Train university 
+INFO  - 2020-09-17 08:39:45.411; utils.log; Fellowship Available
+INFO  - 2020-09-17 08:39:45.949; utils.log; Fellowship is 
+INFO  - 2020-09-17 08:39:45.949; utils.log; fell
+INFO  - 2020-09-17 08:39:48.426; utils.log; Other Available
+INFO  - 2020-09-17 08:39:48.898; utils.log; Other is 
+INFO  - 2020-09-17 08:39:48.899; utils.log; 
+INFO  - 2020-09-17 08:39:51.331; utils.log; Board Available
+INFO  - 2020-09-17 08:39:51.860; utils.log; Board is 
+INFO  - 2020-09-17 08:39:51.860; utils.log; Director
+INFO  - 2020-09-17 08:39:54.264; utils.log; Area of expertise Available
+INFO  - 2020-09-17 08:39:54.784; utils.log; expertise is 
+INFO  - 2020-09-17 08:39:54.784; utils.log; Director
+INFO  - 2020-09-17 08:39:58.779; utils.log; Scolled Up 
+INFO  - 2020-09-17 08:40:00.472; utils.log; Book Consultation Button Clicked  
+INFO  - 2020-09-17 08:40:03.175; utils.log; Cancel Button Clicked  
+INFO  - 2020-09-17 08:40:04.223; utils.log; Book Consultation Button Clicked again  
+INFO  - 2020-09-17 08:40:09.609; utils.log; Date Selected   
+INFO  - 2020-09-17 08:40:10.121; utils.log; Month Displayed
+INFO  - 2020-09-17 08:40:10.489; utils.log; Now Select a Slot 
+INFO  - 2020-09-17 08:40:11.061; utils.log; Slot Selected 
+INFO  - 2020-09-17 08:40:11.899; utils.log; Confirm Button Clicked  
+INFO  - 2020-09-17 08:40:17.363; utils.log; Consultation For  is 
+INFO  - 2020-09-17 08:40:17.363; utils.log; Other
+ Chest Burn
+INFO  - 2020-09-17 08:40:19.855; utils.log; Provider  is 
+INFO  - 2020-09-17 08:40:19.855; utils.log; Dr. Murad T
+INFO  - 2020-09-17 08:40:22.339; utils.log; Schedule is 
+INFO  - 2020-09-17 08:40:22.339; utils.log; 21/09/2020, 04:00 - 04:03
+INFO  - 2020-09-17 08:40:24.813; utils.log; Calling Mode is 
+INFO  - 2020-09-17 08:40:24.813; utils.log; Video call
+INFO  - 2020-09-17 08:40:27.289; utils.log; Specialist Consultation  Cost is 
+INFO  - 2020-09-17 08:40:27.290; utils.log; 12.0 KWD
+INFO  - 2020-09-17 08:40:30.243; utils.log; Other Sympoms displayed on the Summary Page Successfully  
+INFO  - 2020-09-17 08:40:30.244; utils.log; Doctor Provider  Is correctly displayed as selected 
+INFO  - 2020-09-17 08:40:31.288; utils.log; Payment Options Checked 
+INFO  - 2020-09-17 08:40:39.741; utils.log; Consultation Price on Payment Gateway is 
+INFO  - 2020-09-17 08:40:39.741; utils.log; 12.000KD
+INFO  - 2020-09-17 08:41:11.728; utils.log; Appointment Text is 
+INFO  - 2020-09-17 08:41:11.729; utils.log; Your appointment with Dr. Murad T is confirmed
+INFO  - 2020-09-17 08:41:12.467; utils.log; Appointment Date is 
+INFO  - 2020-09-17 08:41:12.468; utils.log; September 21, 04:00 - 04:03
+INFO  - 2020-09-17 08:41:16.496; utils.log; ----------------------END TEST - Book Other SpecialistAppointments-----------------------------
+INFO  - 2020-09-17 08:50:49.735; utils.log; ----------------------START TEST - Book   SpecialistAppointments-----------------------------
+INFO  - 2020-09-17 08:50:50.481; utils.utility; Pleaase enter Pin 
+INFO  - 2020-09-17 08:51:03.980; utils.utility; Sihaty Pin Text verified  
+INFO  - 2020-09-17 08:51:09.373; utils.utility; Pin entered  
+INFO  - 2020-09-17 08:51:19.803; utils.log; Select  Doctor 
+INFO  - 2020-09-17 08:51:22.191; utils.log; Language is 
+INFO  - 2020-09-17 08:51:22.191; utils.log; Arabic, English, French
+INFO  - 2020-09-17 08:51:24.594; utils.log; Experience Available
+INFO  - 2020-09-17 08:51:25.257; utils.log; Experience is 
+INFO  - 2020-09-17 08:51:25.258; utils.log; Arabic, English, French
+INFO  - 2020-09-17 08:51:27.632; utils.log; License number Available
+INFO  - 2020-09-17 08:51:28.204; utils.log; Licence is 
+INFO  - 2020-09-17 08:51:28.204; utils.log; 8723498234892173
+INFO  - 2020-09-17 08:51:32.142; utils.log; Scolled down 
+INFO  - 2020-09-17 08:51:33.653; utils.log; Background Information Available
+INFO  - 2020-09-17 08:51:34.045; utils.log; University Available
+INFO  - 2020-09-17 08:51:34.539; utils.log; University is 
+INFO  - 2020-09-17 08:51:34.540; utils.log; Kuwait University
+INFO  - 2020-09-17 08:51:36.924; utils.log; Training Available
+INFO  - 2020-09-17 08:51:37.359; utils.log; Training is 
+INFO  - 2020-09-17 08:51:37.359; utils.log; Train university 
+INFO  - 2020-09-17 08:51:39.792; utils.log; Fellowship Available
+INFO  - 2020-09-17 08:51:40.291; utils.log; Fellowship is 
+INFO  - 2020-09-17 08:51:40.291; utils.log; fell
+INFO  - 2020-09-17 08:51:42.675; utils.log; Other Available
+INFO  - 2020-09-17 08:51:43.240; utils.log; Other is 
+INFO  - 2020-09-17 08:51:43.240; utils.log; 
+INFO  - 2020-09-17 08:51:45.681; utils.log; Board Available
+INFO  - 2020-09-17 08:51:46.106; utils.log; Board is 
+INFO  - 2020-09-17 08:51:46.106; utils.log; Director
+INFO  - 2020-09-17 08:51:48.507; utils.log; Area of expertise Available
+INFO  - 2020-09-17 08:51:49.010; utils.log; expertise is 
+INFO  - 2020-09-17 08:51:49.010; utils.log; Director
+INFO  - 2020-09-17 08:51:52.748; utils.log; Scolled Up 
+INFO  - 2020-09-17 08:51:54.438; utils.log; Book Consultation Button Clicked  
+INFO  - 2020-09-17 08:51:57.096; utils.log; Cancel Button Clicked  
+INFO  - 2020-09-17 08:51:58.052; utils.log; Book Consultation Button Clicked again  
+INFO  - 2020-09-17 08:52:03.212; utils.log; Date Selected   
+INFO  - 2020-09-17 08:52:03.626; utils.log; Month Displayed
+INFO  - 2020-09-17 08:52:03.976; utils.log; Now Select a Slot 
+INFO  - 2020-09-17 08:52:04.511; utils.log; Slot Selected 
+INFO  - 2020-09-17 08:52:05.392; utils.log; Confirm Button Clicked  
+INFO  - 2020-09-17 08:52:10.688; utils.log; Consultation For  is 
+INFO  - 2020-09-17 08:52:10.688; utils.log; Anger management
+INFO  - 2020-09-17 08:52:13.133; utils.log; Provider  is 
+INFO  - 2020-09-17 08:52:13.134; utils.log; Dr. Murad T
+INFO  - 2020-09-17 08:52:15.630; utils.log; Schedule is 
+INFO  - 2020-09-17 08:52:15.630; utils.log; 21/09/2020, 04:05 - 04:08
+INFO  - 2020-09-17 08:52:18.076; utils.log; Calling Mode is 
+INFO  - 2020-09-17 08:52:18.076; utils.log; Video call
+INFO  - 2020-09-17 08:52:20.576; utils.log; Specialist Consultation  Cost is 
+INFO  - 2020-09-17 08:52:20.577; utils.log; 12.0 KWD
+INFO  - 2020-09-17 08:52:22.580; utils.log; Symptoms  Is correctly displayed as selected 
+INFO  - 2020-09-17 08:52:23.776; utils.log; Payment Options Checked 
+INFO  - 2020-09-17 08:52:33.474; utils.log; Consultation Price on Payment Gateway is 
+INFO  - 2020-09-17 08:52:33.475; utils.log; 12.000KD
+INFO  - 2020-09-17 08:53:04.745; utils.log; Appointment Text is 
+INFO  - 2020-09-17 08:53:04.746; utils.log; Your appointment with Dr. Murad T is confirmed
+INFO  - 2020-09-17 08:53:05.396; utils.log; Appointment Date is 
+INFO  - 2020-09-17 08:53:05.396; utils.log; September 21, 04:05 - 04:08
+INFO  - 2020-09-17 08:53:09.378; utils.log; ----------------------END TEST - Book  SpecialistAppointments-----------------------------
+INFO  - 2020-09-17 08:59:32.041; utils.log; ----------------------START TEST - Book SpecialistFreeAppointment-----------------------------
+INFO  - 2020-09-17 08:59:32.836; utils.utility; Pleaase enter Pin 
+INFO  - 2020-09-17 08:59:46.410; utils.utility; Sihaty Pin Text verified  
+INFO  - 2020-09-17 08:59:51.949; utils.utility; Pin entered  
+INFO  - 2020-09-17 09:00:02.457; utils.log; Select  Doctor 
+INFO  - 2020-09-17 09:00:04.939; utils.log; Language is 
+INFO  - 2020-09-17 09:00:04.939; utils.log; English, French
+INFO  - 2020-09-17 09:00:07.317; utils.log; Experience Available
+INFO  - 2020-09-17 09:00:07.798; utils.log; Experience is 
+INFO  - 2020-09-17 09:00:07.798; utils.log; English, French
+INFO  - 2020-09-17 09:00:10.216; utils.log; License number Available
+INFO  - 2020-09-17 09:00:10.647; utils.log; Licence is 
+INFO  - 2020-09-17 09:00:10.648; utils.log; e34433
+INFO  - 2020-09-17 09:00:14.560; utils.log; Scolled down 
+INFO  - 2020-09-17 09:00:16.044; utils.log; Background Information Available
+INFO  - 2020-09-17 09:00:16.450; utils.log; University Available
+INFO  - 2020-09-17 09:00:16.971; utils.log; University is 
+INFO  - 2020-09-17 09:00:16.972; utils.log; 0.0 KWD / 5 mins
+INFO  - 2020-09-17 09:00:19.403; utils.log; Training Available
+INFO  - 2020-09-17 09:00:19.963; utils.log; Training is 
+INFO  - 2020-09-17 09:00:19.964; utils.log; Union Medical College London
+INFO  - 2020-09-17 09:00:22.396; utils.log; Fellowship Available
+INFO  - 2020-09-17 09:00:22.903; utils.log; Fellowship is 
+INFO  - 2020-09-17 09:00:22.904; utils.log; Full Time 
+INFO  - 2020-09-17 09:00:25.329; utils.log; Other Available
+INFO  - 2020-09-17 09:00:25.891; utils.log; Other is 
+INFO  - 2020-09-17 09:00:25.891; utils.log; Alamercies
+INFO  - 2020-09-17 09:00:28.305; utils.log; Board Available
+INFO  - 2020-09-17 09:00:28.965; utils.log; Board is 
+INFO  - 2020-09-17 09:00:28.966; utils.log; 
+INFO  - 2020-09-17 09:00:31.338; utils.log; Area of expertise Available
+INFO  - 2020-09-17 09:00:31.903; utils.log; expertise is 
+INFO  - 2020-09-17 09:00:31.903; utils.log; 
+INFO  - 2020-09-17 09:00:35.728; utils.log; Scolled Up 
+INFO  - 2020-09-17 09:00:37.279; utils.log; Book Consultation Button Clicked  
+INFO  - 2020-09-17 09:00:39.790; utils.log; Cancel Button Clicked  
+INFO  - 2020-09-17 09:00:40.853; utils.log; Book Consultation Button Clicked again  
+INFO  - 2020-09-17 09:00:45.949; utils.log; Date Selected   
+INFO  - 2020-09-17 09:00:46.383; utils.log; Month Displayed
+INFO  - 2020-09-17 09:00:46.737; utils.log; Now Select a Slot 
+INFO  - 2020-09-17 09:00:47.198; utils.log; Slot Selected 
+INFO  - 2020-09-17 09:00:48.129; utils.log; Confirm Button Clicked  
+INFO  - 2020-09-17 09:00:54.479; utils.log; Consultation For  is 
+INFO  - 2020-09-17 09:00:54.480; utils.log; Anger management
+INFO  - 2020-09-17 09:00:56.988; utils.log; Provider  is 
+INFO  - 2020-09-17 09:00:56.988; utils.log; Dr. Adeyinka Josephine Alayo
+INFO  - 2020-09-17 09:00:59.471; utils.log; Schedule is 
+INFO  - 2020-09-17 09:00:59.471; utils.log; 21/09/2020, 06:00 - 06:05
+INFO  - 2020-09-17 09:01:01.979; utils.log; Calling Mode is 
+INFO  - 2020-09-17 09:01:01.979; utils.log; Video call
+INFO  - 2020-09-17 09:01:04.517; utils.log; Specialist Consultation  Cost is 
+INFO  - 2020-09-17 09:01:04.517; utils.log; Free
+INFO  - 2020-09-17 09:01:07.316; utils.log; Consultation Confirmed as Free 
+INFO  - 2020-09-17 09:01:07.316; utils.log; Symptoms  Is correctly displayed as selected 
+INFO  - 2020-09-17 09:01:13.833; utils.log; Appointment Text is 
+INFO  - 2020-09-17 09:01:13.834; utils.log; Your appointment with Dr. Adeyinka Josephine Alayo is confirmed
+INFO  - 2020-09-17 09:01:14.492; utils.log; Appointment Date is 
+INFO  - 2020-09-17 09:01:14.492; utils.log; September 21, 06:00 - 06:05
+INFO  - 2020-09-17 09:01:18.760; utils.log; ----------------------END TEST - Book SpecialistFreeAppointment-----------------------------
+INFO  - 2020-09-17 09:05:51.388; utils.log; ----------------------START TEST - Book Urgent Appointments -----------------------------
+INFO  - 2020-09-17 09:05:52.168; utils.utility; Pleaase enter Pin 
+INFO  - 2020-09-17 09:06:05.371; utils.utility; Sihaty Pin Text verified  
+INFO  - 2020-09-17 09:06:10.998; utils.utility; Pin entered  
+INFO  - 2020-09-17 09:06:42.235; utils.log; Scolled down 
+INFO  - 2020-09-17 09:06:55.021; utils.log; All Consultation Details Verified
+INFO  - 2020-09-17 09:07:03.982; utils.log; Consultation Price is 
+INFO  - 2020-09-17 09:07:03.982; utils.log; 13.000KD
+INFO  - 2020-09-17 09:07:31.471; utils.log; UrgentConfirmTitle Confirmed Okay 
+INFO  - 2020-09-17 09:07:32.937; utils.log; UrgentConfirmSubTitle Confirmed Okay 
+INFO  - 2020-09-17 09:07:34.456; utils.log; UrgentToolbarContainer Confirmed Okay 
+INFO  - 2020-09-17 09:07:34.457; utils.log; ----------------------END TEST - Book Urgent Appointments -----------------------------
+INFO  - 2020-09-17 09:10:56.221; utils.log; ----------------------START TEST - Book  Child SpecialistAppointments-----------------------------
+INFO  - 2020-09-17 09:10:56.945; utils.utility; Pleaase enter Pin 
+INFO  - 2020-09-17 09:11:10.275; utils.utility; Sihaty Pin Text verified  
+INFO  - 2020-09-17 09:11:15.807; utils.utility; Pin entered  
+INFO  - 2020-09-17 09:11:21.571; utils.log; Child Selected 
+INFO  - 2020-09-17 09:11:28.534; utils.log; Select  Doctor 
+INFO  - 2020-09-17 09:11:32.268; utils.log; Language is 
+INFO  - 2020-09-17 09:11:32.269; utils.log; Arabic, English, French
+INFO  - 2020-09-17 09:11:34.631; utils.log; Experience Available
+INFO  - 2020-09-17 09:11:35.071; utils.log; Experience is 
+INFO  - 2020-09-17 09:11:35.072; utils.log; Arabic, English, French
+INFO  - 2020-09-17 09:11:37.588; utils.log; License number Available
+INFO  - 2020-09-17 09:11:38.078; utils.log; Licence is 
+INFO  - 2020-09-17 09:11:38.078; utils.log; 8723498234892173
+INFO  - 2020-09-17 09:11:41.808; utils.log; Scolled down 
+INFO  - 2020-09-17 09:11:43.243; utils.log; Background Information Available
+INFO  - 2020-09-17 09:11:43.603; utils.log; University Available
+INFO  - 2020-09-17 09:11:43.975; utils.log; University is 
+INFO  - 2020-09-17 09:11:43.975; utils.log; Kuwait University
+INFO  - 2020-09-17 09:11:46.383; utils.log; Training Available
+INFO  - 2020-09-17 09:11:46.861; utils.log; Training is 
+INFO  - 2020-09-17 09:11:46.862; utils.log; Train university 
+INFO  - 2020-09-17 09:11:49.243; utils.log; Fellowship Available
+INFO  - 2020-09-17 09:11:49.767; utils.log; Fellowship is 
+INFO  - 2020-09-17 09:11:49.768; utils.log; fell
+INFO  - 2020-09-17 09:11:52.200; utils.log; Other Available
+INFO  - 2020-09-17 09:11:52.784; utils.log; Other is 
+INFO  - 2020-09-17 09:11:52.785; utils.log; 
+INFO  - 2020-09-17 09:11:55.086; utils.log; Board Available
+INFO  - 2020-09-17 09:11:55.592; utils.log; Board is 
+INFO  - 2020-09-17 09:11:55.593; utils.log; Director
+INFO  - 2020-09-17 09:11:58.147; utils.log; Area of expertise Available
+INFO  - 2020-09-17 09:11:58.709; utils.log; expertise is 
+INFO  - 2020-09-17 09:11:58.710; utils.log; Director
+INFO  - 2020-09-17 09:12:02.597; utils.log; Scolled Up 
+INFO  - 2020-09-17 09:12:04.204; utils.log; Book Consultation Button Clicked  
+INFO  - 2020-09-17 09:12:06.813; utils.log; Cancel Button Clicked  
+INFO  - 2020-09-17 09:12:07.746; utils.log; Book Consultation Button Clicked again  
+INFO  - 2020-09-17 09:12:13.106; utils.log; Date Selected   
+INFO  - 2020-09-17 09:12:13.527; utils.log; Month Displayed
+INFO  - 2020-09-17 09:12:13.865; utils.log; Now Select a Slot 
+INFO  - 2020-09-17 09:12:15.950; utils.log; Slot Selected 
+INFO  - 2020-09-17 09:12:16.755; utils.log; Confirm Button Clicked  
+INFO  - 2020-09-17 09:12:22.230; utils.log; Consultation For  is 
+INFO  - 2020-09-17 09:12:22.230; utils.log; Anger management
+INFO  - 2020-09-17 09:12:24.726; utils.log; Provider  is 
+INFO  - 2020-09-17 09:12:24.726; utils.log; Dr. Murad T
+INFO  - 2020-09-17 09:12:27.221; utils.log; Schedule is 
+INFO  - 2020-09-17 09:12:27.221; utils.log; 21/09/2020, 04:10 - 04:13
+INFO  - 2020-09-17 09:12:29.698; utils.log; Calling Mode is 
+INFO  - 2020-09-17 09:12:29.699; utils.log; Video call
+INFO  - 2020-09-17 09:12:32.193; utils.log; Specialist Consultation  Cost is 
+INFO  - 2020-09-17 09:12:32.193; utils.log; 55.0 QAR
+INFO  - 2020-09-17 09:12:34.199; utils.log; Symptoms  Is correctly displayed as selected 
+INFO  - 2020-09-17 09:13:38.278; utils.log; ----------------------START TEST - Book  Child SpecialistAppointments-----------------------------
+INFO  - 2020-09-17 09:13:38.854; utils.utility; Pleaase enter Pin 
+INFO  - 2020-09-17 09:13:52.092; utils.utility; Sihaty Pin Text verified  
+INFO  - 2020-09-17 09:13:57.542; utils.utility; Pin entered  
+INFO  - 2020-09-17 09:14:03.753; utils.log; Child Selected 
+INFO  - 2020-09-17 09:14:10.810; utils.log; Select  Doctor 
+INFO  - 2020-09-17 09:14:13.228; utils.log; Language is 
+INFO  - 2020-09-17 09:14:13.228; utils.log; Arabic, English, French
+INFO  - 2020-09-17 09:14:15.681; utils.log; Experience Available
+INFO  - 2020-09-17 09:14:16.204; utils.log; Experience is 
+INFO  - 2020-09-17 09:14:16.204; utils.log; Arabic, English, French
+INFO  - 2020-09-17 09:14:18.601; utils.log; License number Available
+INFO  - 2020-09-17 09:14:19.093; utils.log; Licence is 
+INFO  - 2020-09-17 09:14:19.093; utils.log; 8723498234892173
+INFO  - 2020-09-17 09:14:22.789; utils.log; Scolled down 
+INFO  - 2020-09-17 09:14:24.265; utils.log; Background Information Available
+INFO  - 2020-09-17 09:14:24.697; utils.log; University Available
+INFO  - 2020-09-17 09:14:25.182; utils.log; University is 
+INFO  - 2020-09-17 09:14:25.182; utils.log; Kuwait University
+INFO  - 2020-09-17 09:14:27.641; utils.log; Training Available
+INFO  - 2020-09-17 09:14:28.208; utils.log; Training is 
+INFO  - 2020-09-17 09:14:28.209; utils.log; Train university 
+INFO  - 2020-09-17 09:14:30.584; utils.log; Fellowship Available
+INFO  - 2020-09-17 09:14:31.160; utils.log; Fellowship is 
+INFO  - 2020-09-17 09:14:31.160; utils.log; fell
+INFO  - 2020-09-17 09:14:33.563; utils.log; Other Available
+INFO  - 2020-09-17 09:14:34.066; utils.log; Other is 
+INFO  - 2020-09-17 09:14:34.067; utils.log; 
+INFO  - 2020-09-17 09:14:36.548; utils.log; Board Available
+INFO  - 2020-09-17 09:14:36.987; utils.log; Board is 
+INFO  - 2020-09-17 09:14:36.987; utils.log; Director
+INFO  - 2020-09-17 09:14:39.351; utils.log; Area of expertise Available
+INFO  - 2020-09-17 09:14:39.765; utils.log; expertise is 
+INFO  - 2020-09-17 09:14:39.765; utils.log; Director
+INFO  - 2020-09-17 09:14:43.777; utils.log; Scolled Up 
+INFO  - 2020-09-17 09:14:45.377; utils.log; Book Consultation Button Clicked  
+INFO  - 2020-09-17 09:14:48.079; utils.log; Cancel Button Clicked  
+INFO  - 2020-09-17 09:14:49.089; utils.log; Book Consultation Button Clicked again  
+INFO  - 2020-09-17 09:14:54.815; utils.log; Date Selected   
+INFO  - 2020-09-17 09:14:55.292; utils.log; Month Displayed
+INFO  - 2020-09-17 09:14:55.655; utils.log; Now Select a Slot 
+INFO  - 2020-09-17 09:14:56.668; utils.log; Slot Selected 
+INFO  - 2020-09-17 09:14:57.566; utils.log; Confirm Button Clicked  
+INFO  - 2020-09-17 09:15:03.086; utils.log; Consultation For  is 
+INFO  - 2020-09-17 09:15:03.086; utils.log; Anger management
+INFO  - 2020-09-17 09:15:05.626; utils.log; Provider  is 
+INFO  - 2020-09-17 09:15:05.626; utils.log; Dr. Murad T
+INFO  - 2020-09-17 09:15:08.061; utils.log; Schedule is 
+INFO  - 2020-09-17 09:15:08.061; utils.log; 21/09/2020, 04:10 - 04:13
+INFO  - 2020-09-17 09:15:10.521; utils.log; Calling Mode is 
+INFO  - 2020-09-17 09:15:10.522; utils.log; Video call
+INFO  - 2020-09-17 09:15:13.019; utils.log; Specialist Consultation  Cost is 
+INFO  - 2020-09-17 09:15:13.019; utils.log; 55.0 QAR
+INFO  - 2020-09-17 09:15:15.020; utils.log; Symptoms  Is correctly displayed as selected 
+INFO  - 2020-09-17 09:15:15.709; utils.log; Payment Options Checked 
+INFO  - 2020-09-17 09:15:24.552; utils.log; Consultation Price on Payment Gateway is 
+INFO  - 2020-09-17 09:15:24.553; utils.log; 3.550KD
+INFO  - 2020-09-17 09:15:54.297; utils.log; Appointment Text is 
+INFO  - 2020-09-17 09:15:54.298; utils.log; Your appointment with Dr. Murad T is confirmed
+INFO  - 2020-09-17 09:15:55.200; utils.log; Appointment Date is 
+INFO  - 2020-09-17 09:15:55.200; utils.log; September 21, 04:10 - 04:13
+INFO  - 2020-09-17 09:15:59.204; utils.log; ----------------------END TEST - Book Child  SpecialistAppointments-----------------------------
+INFO  - 2020-09-17 09:18:32.736; utils.log; ----------------------START TEST - Book Child Urgent Appointments -----------------------------
+INFO  - 2020-09-17 09:18:33.292; utils.utility; Pleaase enter Pin 
+INFO  - 2020-09-17 09:18:46.374; utils.utility; Sihaty Pin Text verified  
+INFO  - 2020-09-17 09:18:51.885; utils.utility; Pin entered  
+INFO  - 2020-09-17 09:19:23.785; utils.log; Scolled down 
+INFO  - 2020-09-17 09:19:36.640; utils.log; All Consultation Details Verified
+INFO  - 2020-09-17 09:19:43.709; utils.log; Consultation Price is 
+INFO  - 2020-09-17 09:19:43.709; utils.log; 1.100KD
+INFO  - 2020-09-17 09:20:14.248; utils.log; UrgentConfirmTitle Confirmed Okay 
+INFO  - 2020-09-17 09:20:15.710; utils.log; UrgentConfirmSubTitle Confirmed Okay 
+INFO  - 2020-09-17 09:20:17.140; utils.log; UrgentToolbarContainer Confirmed Okay 
+INFO  - 2020-09-17 09:20:17.141; utils.log; ----------------------END TEST - Book Child Urgent Appointments -----------------------------
+INFO  - 2020-10-11 19:11:21.249; utils.log; ----------------------START TEST - Book Other SpecialistAppointments-----------------------------
+INFO  - 2020-10-11 19:11:22.025; utils.utility; Pleaase enter Pin 
+INFO  - 2020-10-11 19:11:22.678; utils.log; ----------------------START TEST -Book Failed SpecialistAppointments-----------------------------
+INFO  - 2020-10-11 19:11:22.756; utils.utility; Pleaase enter Pin 
+INFO  - 2020-10-11 19:11:22.773; utils.log; ----------------------START TEST - Book   SpecialistAppointments-----------------------------
+INFO  - 2020-10-11 19:11:22.850; utils.utility; Pleaase enter Pin 
